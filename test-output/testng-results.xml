@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-22T13:33:04 EDT" name="Default suite" finished-at="2021-06-22T13:33:15 EDT" duration-ms="10952">
+    <groups>
+    </groups>
+    <test started-at="2021-06-22T13:33:04 EDT" name="Default test" finished-at="2021-06-22T13:33:15 EDT" duration-ms="10952">
+      <class name="roughTrials.MobileTesting">
+        <test-method signature="mobileTesting(java.lang.String)[pri:0, instance:roughTrials.MobileTesting@6e0dec4a]" started-at="2021-06-22T13:33:04 EDT" name="mobileTesting" data-provider="a" finished-at="2021-06-22T13:33:09 EDT" duration-ms="4578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPad Pro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTesting -->
+        <test-method signature="mobileTesting(java.lang.String)[pri:0, instance:roughTrials.MobileTesting@6e0dec4a]" started-at="2021-06-22T13:33:09 EDT" name="mobileTesting" data-provider="a" finished-at="2021-06-22T13:33:12 EDT" duration-ms="3223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nexus 5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTesting -->
+        <test-method signature="mobileTesting(java.lang.String)[pri:0, instance:roughTrials.MobileTesting@6e0dec4a]" started-at="2021-06-22T13:33:12 EDT" name="mobileTesting" data-provider="a" finished-at="2021-06-22T13:33:15 EDT" duration-ms="3096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pixel 2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTesting -->
+      </class> <!-- roughTrials.MobileTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

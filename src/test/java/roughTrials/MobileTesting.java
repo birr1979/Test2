@@ -18,7 +18,7 @@ public class MobileTesting {
 		
 		return new Object[][] {
 			{"iPad Pro"},{"Nexus 5"},{"Pixel 2"}	
-
+//inteleje idea
 		};
 	}
 
